@@ -1,11 +1,11 @@
-<scheme name="Light Lite" version="142" parent_scheme="Default">
+<scheme name="Apex Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-02-16T08:01:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
     <property name="modified">2022-02-16T08:02:13</property>
-    <property name="originalScheme">Light Lite</property>
+    <property name="originalScheme">Apex Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="18" />
